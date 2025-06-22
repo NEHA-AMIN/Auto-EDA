@@ -26,7 +26,7 @@ Visualization: Matplotlib, Seaborn
 File Support: CSV, JSON, Excel
 📦 Installation
 
-git clone https://github.com/yourusername/autoeda.git
+git clone https://github.com/NEHA-AMIN/autoeda.git
 cd autoeda
 pip install -r requirements.txt
 streamlit run app.py
